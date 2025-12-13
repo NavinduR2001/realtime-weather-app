@@ -1,0 +1,23 @@
+# Backend
+backend/target/
+backend/.mvn/
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Environment
+<<<<<<< HEAD
+.env.local
+.env.production.local
+.env.development.local
+=======
+.env
+.env.local
+>>>>>>> c511e09c20dfa2f12cbc1d1b9a589ca16dffd081
